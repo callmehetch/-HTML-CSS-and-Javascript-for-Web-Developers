@@ -1,5 +1,5 @@
 .navbar.navbar-default {
-  background-color: #ddd;
+  background-color: #0074D9;
   border-radius: 0;
   border: 1px solid black;
 }
@@ -11,7 +11,7 @@
   border-color: black;
 }
 .navbar-default .navbar-toggle.collapsed .icon-bar {
-  background-color: black;
+  background-color: #0074D9;
 }
 .navbar-default .navbar-toggle.collapsed:hover,
 .navbar-default .navbar-toggle {
@@ -24,7 +24,7 @@
 }
 
 #navbar-menu li {
-  border: 1px solid gray;
+  border: 1px solid #0074D9;
 }
 
 h2 {
@@ -32,13 +32,13 @@ h2 {
 }
 
 div.section {
-  background-color: #ddd;
+  background-color: #FFDC00;
   padding: 5px 20px 15px 20px;
   margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
   #navbar-menu {
-    background-color: white;
+    background-color: #85144b;
   }
 }
